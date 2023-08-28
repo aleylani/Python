@@ -1,12 +1,12 @@
 # Week 35 - Resources
 
-[Back to main page :house:](https://github.com/kokchun/Programmering-med-Python-21)
+[Back to main page :house:](https://github.com/aleylani/Python)
 
 ## Setup :wrench:
 
-- Download [Python 3.9 here][pyt] and install it (don't install Python 3.10). Important to check :ballot_box_with_check: **add to path** in the installation. Make sure to have only **one** version of Python installed.
+- Download [Anaconda][pyt] and install it. Important to check :ballot_box_with_check: **add to path** in the installation.
 
-[pyt]: https://www.python.org/downloads/release/python-3913/
+[pyt]: https://www.anaconda.com/download
 
 - Download [Visual Studio Code here][vscode] and install it. 
 
@@ -54,18 +54,16 @@
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
 
 ## Lecture notes :mortar_board:
-- [Input-output, variables](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L0-input-output.ipynb)
-- [if-statement](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L1-if-statements.ipynb)
-- [while loop](https://github.com/kokchun/Python-course-AI22/blob/main/Lecture_notes/L2-while-statement.ipynb)
+- [Input-output, variables](https://github.com/aleylani/Python/blob/main/Lecture_notes/L0_input_output.ipynb)
+- [if-statement](https://github.com/aleylani/Python/blob/main/Lecture_notes/L1_if_statements.ipynb)
+- [while loop](https://github.com/aleylani/Python/blob/main/Lecture_notes/L2_while_statement.ipynb)
 
 ## Exercises :running:
 - [Count with Python][exercise_count]
 - [if statement][exercise_if]
 - [while statement][exercise_while]
 
-[exercise_count]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/00-Count-with-Python-exercise.ipynb
+[exercise_count]: https://github.com/aleylani/Python/blob/main/Exercises/00_Count_with_Python_exercise.ipynb
 [exercise_if]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/01-if-statement-exercise.ipynb 
 [exercise_while]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/02-while-statement-exercise.ipynb
 
-## Lab 1
-- Work with lab 1 Github
