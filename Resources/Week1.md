@@ -34,7 +34,7 @@
 
 - Learn [Git and GitHub][git_tutorial] for version control and file storage
 
-[git_tutorial]: https://www.youtube.com/watch?v=USjZcfj8yxE
+[git_tutorial]: https://www.youtube.com/watch?v=8Dd7KRpKeaE
 
 - When entering the commands `python` or `pip` in command prompt or terminal and there is an error :x:, you need to set the path manually
   - set path in [Windows][windows_path]
@@ -49,7 +49,7 @@
 - [Python: Input - w3schools][w3input]
 - [Python: f-strings - realpython](https://realpython.com/python-f-strings/)
 - [Python: Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
-- [Python: if/else - w3schools] [w3if]
+- [Python: if/else - w3schools][w3if]
 - [Pythhon while - w3schools][w3while]
 
 - [Github repo tutorial][git_repo_tutorial]
