@@ -73,6 +73,6 @@
 - [while statement][exercise_while]
 
 [exercise_count]: https://github.com/aleylani/Python/blob/main/Exercises/00_Count_with_Python_exercise.ipynb
-[exercise_if]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/01-if-statement-exercise.ipynb 
-[exercise_while]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/02-while-statement-exercise.ipynb
+[exercise_if]: https://github.com/aleylani/Python/blob/main/Exercises/01_if_statement_exercise.ipynb 
+[exercise_while]: https://github.com/aleylani/Python/blob/main/Exercises/02_while_statement_exercise.ipynb
 
