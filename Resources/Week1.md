@@ -8,13 +8,13 @@
 
 [pyt]: https://www.anaconda.com/download
 
-- Download [Visual Studio Code here][vscode] and install it. 
+- Download [Visual Studio Code][vscode] and install it. 
 
 [vscode]: https://code.visualstudio.com/
 
-- Download [git here][git] and install it. 
+- Download [Github Desktop][git] and install it. 
 
-[git]: https://git-scm.com/
+[git]: https://desktop.github.com/
 
 - Create an account on [GitHub][github]. 
 
