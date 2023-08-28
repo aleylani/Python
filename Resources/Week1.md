@@ -21,6 +21,15 @@
 [github]: https://github.com/
 
 ## Video guides :video_camera:
+
+- Learn [variables][variables] to store data
+- Learn [input][input] to let user input to the program
+- Learn [while statement][while_video] to repeat code with given condition
+
+[while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ
+[variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
+[input]: https://www.youtube.com/watch?v=4OX49nLNPEE
+
 - Learn [Git and GitHub][git_tutorial] for version control and file storage
 
 [git_tutorial]: https://www.youtube.com/watch?v=USjZcfj8yxE
@@ -32,21 +41,13 @@
 [windows_path]: https://www.youtube.com/watch?v=dj5oOPaeIqI 
 [mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
 
-- Learn [variables][variables] to store data
-- Learn [input][input] to let user input to the program
-- Learn [while statement][while_video] to repeat code with given condition
-
-[while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ
-[variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
-[input]: https://www.youtube.com/watch?v=4OX49nLNPEE
-
 ## Theory :book:
 - [Github repo tutorial][git_repo_tutorial]
-- [Variables - w3schools][w3var]
-- [Input - w3schools][w3input]
-- [f-strings](https://realpython.com/python-f-strings/)
-- [Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
-- [while - w3schools][w3while]
+- [Python: Variables - w3schools][w3var]
+- [Python: Input - w3schools][w3input]
+- [Python: f-strings - realpython](https://realpython.com/python-f-strings/)
+- [Python: Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
+- [Pythhon while - w3schools][w3while]
 
 [git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
 [w3while]: https://www.w3schools.com/python/python_while_loops.asp
