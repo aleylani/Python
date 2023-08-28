@@ -42,24 +42,30 @@
 [mac_path]: https://www.youtube.com/watch?v=PUIE7CPANfo
 
 ## Theory :book:
-- [Github repo tutorial][git_repo_tutorial]
+
 - [Python: Variables - w3schools][w3var]
 - [Python: Input - w3schools][w3input]
 - [Python: f-strings - realpython](https://realpython.com/python-f-strings/)
 - [Python: Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
+- [Python: if/else - w3schools] [w3if]
 - [Pythhon while - w3schools][w3while]
+
+- [Github repo tutorial][git_repo_tutorial]
 
 [git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
 [w3while]: https://www.w3schools.com/python/python_while_loops.asp
 [w3var]: https://www.w3schools.com/python/python_variables.asp
+[w3if]: https://www.w3schools.com/python/python_conditions.asp
 [w3input]: https://www.w3schools.com/python/python_user_input.asp
 
 ## Lecture notes :mortar_board:
+
 - [Input-output, variables](https://github.com/aleylani/Python/blob/main/Lecture_notes/L0_input_output.ipynb)
 - [if-statement](https://github.com/aleylani/Python/blob/main/Lecture_notes/L1_if_statements.ipynb)
 - [while loop](https://github.com/aleylani/Python/blob/main/Lecture_notes/L2_while_statement.ipynb)
 
 ## Exercises :running:
+
 - [Count with Python][exercise_count]
 - [if statement][exercise_if]
 - [while statement][exercise_while]
