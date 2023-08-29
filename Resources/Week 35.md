@@ -23,13 +23,11 @@
 ## Video guides :video_camera:
 
 - Learn [variables][variables] to store data
-- Learn [input][input] to let user input to the program
-- Learn [arithmetics][arithmetics] to understand basic math operations 
+- Learn [input][input] to let user input to the program 
 - Learn [if/else][if_video] to execute code depending on conditions
 - Learn [while statement][while_video] to repeat code with given condition
 
 [if_video]: https://www.youtube.com/watch?v=Zp5MuPOtsSY
-[arithmetics]: https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp
 [while_video]: https://www.youtube.com/watch?v=rRTjPnVooxE
 [variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
 [input]: https://www.youtube.com/watch?v=4OX49nLNPEE
@@ -50,6 +48,7 @@
 - [Python: Variables - w3schools][w3var]
 - [Python: Input - w3schools][w3input]
 - [Python: f-strings - realpython](https://realpython.com/python-f-strings/)
+- [Python: Arithmetics](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp)
 - [Python: Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
 - [Python: if/else - w3schools][w3if]
 - [Pythhon while - w3schools][w3while]
