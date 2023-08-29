@@ -24,10 +24,12 @@
 
 - Learn [variables][variables] to store data
 - Learn [input][input] to let user input to the program
+- Learn [arithmetics][arithmetics] to learn about basic math operations 
 - Learn [if/else][if_video] to execute code depending on conditions
 - Learn [while statement][while_video] to repeat code with given condition
 
 [if_video]: https://www.youtube.com/watch?v=Zp5MuPOtsSY
+[arithmetics]: https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp
 [while_video]: https://www.youtube.com/watch?v=rRTjPnVooxE
 [variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
 [input]: https://www.youtube.com/watch?v=4OX49nLNPEE
