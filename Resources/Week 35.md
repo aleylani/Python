@@ -24,7 +24,7 @@
 
 - Learn [variables][variables] to store data
 - Learn [input][input] to let user input to the program
-- Learn [arithmetics][arithmetics] to learn about basic math operations 
+- Learn [arithmetics][arithmetics] to understand basic math operations 
 - Learn [if/else][if_video] to execute code depending on conditions
 - Learn [while statement][while_video] to repeat code with given condition
 
