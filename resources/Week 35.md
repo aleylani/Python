@@ -51,11 +51,9 @@
 - [Python: Arithmetics](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp)
 - [Python: Operators - w3schools](https://www.w3schools.com/python/python_operators.asp)
 - [Python: if/else - w3schools][w3if]
-- [Pythhon while - w3schools][w3while]
+- [Python: while - w3schools][w3while]
 
-- [Github repo tutorial][git_repo_tutorial]
 
-[git_repo_tutorial]: https://github.com/niklas-hjelm/Programmering-med-C-Sharp/blob/main/assets/newRepo.md
 [w3while]: https://www.w3schools.com/python/python_while_loops.asp
 [w3var]: https://www.w3schools.com/python/python_variables.asp
 [w3if]: https://www.w3schools.com/python/python_conditions.asp
@@ -73,7 +71,7 @@
 - [if statement][exercise_if]
 - [while statement][exercise_while]
 
-[exercise_count]: https://github.com/aleylani/Python/blob/main/Exercises/00_Count_with_Python_exercise.ipynb
-[exercise_if]: https://github.com/aleylani/Python/blob/main/Exercises/01_if_statement_exercise.ipynb 
-[exercise_while]: https://github.com/aleylani/Python/blob/main/Exercises/02_while_statement_exercise.ipynb
+[exercise_count]: https://github.com/aleylani/Python/blob/main/exercises/00_Count_with_Python_exercise.ipynb
+[exercise_if]: https://github.com/aleylani/Python/blob/main/exercises/01_if_statement_exercise.ipynb 
+[exercise_while]: https://github.com/aleylani/Python/blob/main/exercises/02_while_statement_exercise.ipynb
 
