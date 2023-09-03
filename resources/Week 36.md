@@ -37,7 +37,7 @@
 
 [for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
 
-[conda_video]: https://www.youtube.com/watch?v=gx403uIwHsc&t=245s
+[conda_video]: https://www.youtube.com/watch?v=gx403uIwHsc&t
 
 [lists_video]: https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
 
