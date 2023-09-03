@@ -22,11 +22,11 @@
 - Learn [for statement][for_video] to efficiently repeat code
 - Learn [lists][lists_video] for organizing data
 - Learn [list comprehension][list_comp_vid] for efficient and clean code
-- Learn [conda environment][conda_environment] to manage packages and environments
 - Learn [matplotlib][matplot_video] to plot graphs
 - Learn [functions][func_vid] to organize and reuse code
 - Learn [strings][string_vid] to work with text
 - Learn [f-string][f_string_vid] to nicely format strings
+- Learn [conda environment][conda_video] to manage packages and environments
 
 
 [func_vid]: https://www.youtube.com/watch?v=NE97ylAnrz4
@@ -37,7 +37,7 @@
 
 [for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
 
-[conda_environment]: https://www.machinelearningplus.com/deployment/conda-create-environment-and-everything-you-need-to-know-to-manage-conda-virtual-environment/
+[conda_video]: https://www.youtube.com/watch?v=gx403uIwHsc&t=245s
 
 [lists_video]: https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
 
