@@ -1,22 +1,22 @@
 # Week 36 - Resources
 
-[Back to main page :house:](https://github.com/kokchun/Python-course-AI22)
+[Back to main page :house:](https://github.com/aleylani/Python/)
 
 
 ## Theory
-- [pipenv - Real Python][real_pipenv]
 - [for - w3schools][w3for]
 - [list - w3schools][w3list]
 - [matplotlib - w3schools][w3matplot]
 - [strings - w3schools][w3str]
 - [functions - w3schools][w3func]
+- [Conda environment - mlp][conda_environment]
 
 [w3str]: https://www.w3schools.com/python/python_strings.asp
 [w3func]: https://www.w3schools.com/python/python_functions.asp
 [w3matplot]: https://www.w3schools.com/python/matplotlib_intro.asp
 [w3list]: https://www.w3schools.com/python/python_lists.asp
 [w3for]: https://www.w3schools.com/python/python_for_loops.asp
-[real_pipenv]: https://realpython.com/pipenv-guide/
+[conda_environment]: https://www.machinelearningplus.com/deployment/conda-create-environment-and-everything-you-need-to-know-to-manage-conda-virtual-environment/
 
 ## Video guides :video_camera:
 - Learn [for statement][for_video] to efficiently repeat code
