@@ -61,9 +61,9 @@
 
 ## Lecture notes :mortar_board:
 
-- [Input-output, variables](https://github.com/aleylani/Python/blob/main/Lecture_notes/L0_input_output.ipynb)
-- [if-statement](https://github.com/aleylani/Python/blob/main/Lecture_notes/L1_if_statements.ipynb)
-- [while loop](https://github.com/aleylani/Python/blob/main/Lecture_notes/L2_while_statement.ipynb)
+- [Input-output, variables](https://github.com/aleylani/Python/blob/main/lectures/L0_input_output.ipynb)
+- [if-statement](https://github.com/aleylani/Python/blob/main/lectures/L1_if_statements.ipynb)
+- [while loop](https://github.com/aleylani/Python/blob/main/lectures/L2_while_statement.ipynb)
 
 ## Exercises :running:
 
