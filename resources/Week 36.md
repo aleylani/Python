@@ -43,12 +43,11 @@
 
 [list_comp_vid]: https://www.youtube.com/watch?v=AhSvKGTh28Q&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=22
 
-
 ## Lecture notes :mortar_board:
-- [for loop](https://github.com/kokchun/Python-course-AI22/blob/main/lectures/L3-for-statement.ipynb)
-- [lists](https://github.com/kokchun/Python-course-AI22/blob/main/lectures/L4-lists.ipynb)
-- [strings](https://github.com/kokchun/Python-course-AI22/blob/main/lectures/L5-strings.ipynb)
-- [functions](https://github.com/kokchun/Python-course-AI22/blob/main/lectures/L6-functions.ipynb)
+- [for loop](https://github.com/aleylani/Python/blob/main/lectures/L3-for-statement.ipynb)
+- [lists](https://github.com/aleylani/Python/blob/main/lectures/L4-lists.ipynb)
+- [strings](https://github.com/aleylani/Python/blob/main/lectures/lectures/L5-strings.ipynb)
+- [functions](https://github.com/aleylani/Python/blob/main/lectures/L6-functions.ipynb)
 
 
 ## Exercises :running:
@@ -56,14 +55,12 @@
 - [list][exercise_list]
 - [strings][str_exercise]
 - [functions][func_exercise] 
-- [exception][except_exer]
 
-[except_exer]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/07-exception-exercise.ipynb
 
-[str_exercise]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/05-strings-exercise.ipynb
+[str_exercise]: https://github.com/aleylani/Python/blob/main/exercises/05-strings-exercise.ipynb
 
-[func_exercise]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/06-functions-exericse.ipynb
+[func_exercise]: https://github.com/aleylani/Python/blob/main/exercises/06-functions-exericse.ipynb
 
-[exercise_for]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/03-for-statement-exercise.ipynb
+[exercise_for]: https://github.com/aleylani/Python/blob/main/exercises/03-for-statement-exercise.ipynb
 
-[exercise_list]: https://github.com/kokchun/Python-course-AI22/blob/main/Exercises/04-list-exercise.ipynb
+[exercise_list]: https://github.com/aleylani/Python/blob/main/exercises/04-list-exercise.ipynb
