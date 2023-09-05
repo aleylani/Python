@@ -57,10 +57,10 @@
 - [functions][func_exercise] 
 
 
-[str_exercise]: https://github.com/aleylani/Python/blob/main/exercises/05-strings-exercise.ipynb
+[str_exercise]: https://github.com/aleylani/Python/blob/main/exercises/05_strings_exercise.ipynb
 
-[func_exercise]: https://github.com/aleylani/Python/blob/main/exercises/06-functions-exericse.ipynb
+[func_exercise]: https://github.com/aleylani/Python/blob/main/exercises/06_functions_exericse.ipynb
 
-[exercise_for]: https://github.com/aleylani/Python/blob/main/exercises/03-for-statement-exercise.ipynb
+[exercise_for]: https://github.com/aleylani/Python/blob/main/exercises/03_for_statement_exercise.ipynb
 
-[exercise_list]: https://github.com/aleylani/Python/blob/main/exercises/04-list-exercise.ipynb
+[exercise_list]: https://github.com/aleylani/Python/blob/main/exercises/04_list_exercise.ipynb
