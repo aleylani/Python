@@ -35,7 +35,7 @@
 
 ## Lecture notes :mortar_board:
 - [for loop](https://github.com/aleylani/Python/blob/main/lectures/L3-for-statement.ipynb)
-- [lists](https://github.com/aleylani/Python/blob/main/lectures/L4-lists.ipynb)
+- [lists](https://github.com/aleylani/Python/blob/main/lectures/L4_lists.ipynb)
 - [strings](https://github.com/aleylani/Python/blob/main/lectures/lectures/L5-strings.ipynb)
 
 
@@ -44,7 +44,6 @@
 - [list][exercise_list]
 - [strings][str_exercise]
 
-
-[str_exercise]: https://github.com/aleylani/Python/blob/main/exercises/05_strings_exercise.ipynb
 [exercise_for]: https://github.com/aleylani/Python/blob/main/exercises/03_for_statement_exercise.ipynb
 [exercise_list]: https://github.com/aleylani/Python/blob/main/exercises/04_list_exercise.ipynb
+[str_exercise]: https://github.com/aleylani/Python/blob/main/exercises/05_strings_exercise.ipynb
