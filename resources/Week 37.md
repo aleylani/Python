@@ -40,7 +40,7 @@
 ## Lecture notes :mortar_board:
 
 - [functions](https://github.com/aleylani/Python/blob/main/lectures/L6_functions.ipynb)
-- [exceptions]https://github.com/aleylani/Python/blob/main/lectures/L7_error_handling.ipynb)  
+- [exceptions](https://github.com/aleylani/Python/blob/main/lectures/L7_error_handling.ipynb)  
 - [file handling - lecture note](https://github.com/aleylani/Python/blob/main/lectures/L8_file_handling.ipynb)
 - [dictionary - lecture note](https://github.com/aleylani/Python/blob/main/lectures/L9_dictionary.ipynb) 
 
